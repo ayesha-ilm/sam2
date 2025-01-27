@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an example project to show object detection using sam2.
+This is an example project to show object detection using sam2. This requires a set up of SAM2 as shown in the base repository's README file. A requirements file has also been included for compatible library use.
 
 ## Methodology
 
